@@ -13,4 +13,4 @@ Node app with MySQL
    - passpor
    - passport-local
    - timeago.js
-   
+   - nodemon
